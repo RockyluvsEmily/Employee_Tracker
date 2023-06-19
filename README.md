@@ -1,5 +1,4 @@
 # Employee_Tracker
-# Password Generator
 
 ## Description
 
@@ -9,7 +8,7 @@ Using mySQL, I can USE, CREATE, UPDATE a schema table showing an list in which c
 
 ## Video
 
-
+https://drive.google.com/file/d/1BL4erSuNgGfOE_O-vRkKK-7_ZhMyfHZH/view
 
 
 ## URLs
