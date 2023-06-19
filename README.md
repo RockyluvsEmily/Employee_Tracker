@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1BL4erSuNgGfOE_O-vRkKK-7_ZhMyfHZH/view
 
 live URL: https://rockyluvsemily.github.io/Employee_Tracker/
 <br>
-GitHub Repo URL:https://github.com/RockyluvsEmily/Empployee_Tracker/tree/main
+GitHub Repo URL:https://github.com/RockyluvsEmily/Employee_Tracker/tree/main
 
 ## Author
 Dewayne Cavendish
